@@ -10,3 +10,4 @@ This project is part of a full-stack development assignment focused on creating 
 
 ### Key Features:
 1- **Data Statistics** : Display essential statistics about the dataset at the top of the page.
+2- **Sidebar Navigation** : Include a left-hand sidebar for easy navigation throughout the dashboard.
