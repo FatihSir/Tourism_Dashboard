@@ -1,4 +1,4 @@
-# Full-Stack Developer Task
+#Full-Stack Developer Task
 
 ![UNDP](https://pbs.twimg.com/media/F5hq3wuXUAASlYn?format=jpg&name=medium)
 
@@ -16,3 +16,4 @@ This project is part of a full-stack development assignment focused on creating 
 
 ### The Desgined Dashboard
 ![desgin](desgin.png)
+![desgin](light.png)
