@@ -1476,5 +1476,5 @@ export const pieData = processTripTypeData(rawData);
 
 export const extractedData = rawData.map(({ Review_ID, review }) => ({
     Review_ID,
-    review: review.length > 50 ? `${review.slice(0, 50)}...` : review // Limit the review length
+    review: review.length > 100 ? `${review.slice(0, 50)}...` : review // Limit the review length
 }));

@@ -13,6 +13,9 @@ This project is part of a full-stack development assignment focused on creating 
 
 2- **Sidebar Navigation** : Include a left-hand sidebar for easy navigation throughout the dashboard.
 
+3- **Pie Chart**: Shows trip type distribution.
+
+4 - *Review Navigation** : Visulaizes the costumers' reviews.
 
 ### The Desgined Dashboard
 ![desgin](desgin.png)
