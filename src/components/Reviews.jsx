@@ -16,15 +16,15 @@ const Reviews = () => {
             key={review.Review_ID || index}
             mb="15px"
             p="10px"
-            backgroundColor={colors.primary[500]}
-            borderRadius="5px"
+            backgroundColor={colors.primary[900]}
+            borderRadius="10px"
           >
             <Typography variant="h6" color={colors.grey[100]}>
               Username: {review.Review_ID}
             </Typography>
             <Typography
               variant="body1"
-              color={colors.grey[300]}
+
               sx={{
                 display: '-webkit-box',
                 WebkitLineClamp: 3,

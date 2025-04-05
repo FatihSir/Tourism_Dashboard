@@ -1445,9 +1445,10 @@ const prepareChartData = (reviewCounts) => {
   ];
 };
 
+
 // Final Chart Data
 export const chartData = prepareChartData(reviewCounts);
-
+console.log(chartData)
 
 // Function to process rawData into trip_type counts
 const processTripTypeData = (data) => {

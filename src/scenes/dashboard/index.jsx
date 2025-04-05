@@ -100,7 +100,7 @@ const Dashboard = () => {
         <Box gridColumn="span 12" gridRow="span 3" backgroundColor={tokens(theme.palette.mode).primary[400]}>
           <ChartHeader title="Distribution of Compliments/Complaints over time" showDownloadButton={true} />
           <Box height="270px" m="-30px 0 0 0">
-            <LineChart isDashboard={true} />
+            <LineChart isDashboard={false} />
           </Box>
         </Box>
 
